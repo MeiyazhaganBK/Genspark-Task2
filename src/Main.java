@@ -9,6 +9,7 @@ public class Main {
         myLL.addListNodeToTheEndOfLinkedList(50);
         myLL.traverseTheLinkedList();
         System.out.println("--------------------");
+
         int ans = myLL.countNodesofLinkedList();
         System.out.println(ans);
         System.out.println("--------------------");
